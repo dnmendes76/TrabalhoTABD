@@ -1,0 +1,49 @@
+ ( cNotasruim   ) --->  ( q15a  )  CONF.: 0.89
+ ( cNotasmedia   ) --->  ( q15a  )  CONF.: 0.92
+ ( q4b   ) --->  ( q15a  )  CONF.: 0.87
+ ( cNotasruim   ) --->  ( q14a  )  CONF.: 0.97
+ ( q17a   ) --->  ( q14a  )  CONF.: 0.99
+ ( q17b   ) --->  ( q14a  )  CONF.: 0.9
+ ( q13a   ) --->  ( q14a  )  CONF.: 0.98
+ ( q23c   ) --->  ( q14a  )  CONF.: 0.95
+ ( q13a   ) --->  ( q15a  )  CONF.: 0.89
+ ( q8a   ) --->  ( q17a  )  CONF.: 0.83
+ ( q4b   ) --->  ( q17a  )  CONF.: 0.82
+ ( q8b   ) --->  ( q15a  )  CONF.: 0.88
+ ( q23b   ) --->  ( q15a  )  CONF.: 0.9
+ ( q17a   ) --->  ( q15a  )  CONF.: 0.87
+ ( q17b   ) --->  ( q15a  )  CONF.: 0.96
+ ( cNotasmedia   ) --->  ( q14a  )  CONF.: 0.93
+ ( q8a   ) --->  ( q15a  )  CONF.: 0.87
+ ( q4d   ) --->  ( q15a  )  CONF.: 0.92
+ ( q4b   ) --->  ( q14a  )  CONF.: 0.98
+ ( q23b   ) --->  ( q14a  )  CONF.: 0.97
+ ( q23c   ) --->  ( q15a  )  CONF.: 0.89
+ ( q8a   ) --->  ( q14a  )  CONF.: 0.98
+ ( q4d   ) --->  ( q14a  )  CONF.: 0.95
+ ( q8b   ) --->  ( q14a  )  CONF.: 0.98
+ ( q15a   ) --->  ( q14a  )  CONF.: 0.95
+ ( q14a   ) --->  ( q15a  )  CONF.: 0.9
+ ( q4b   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( cNotasruim   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( q4b   ) --->  ( q14a   q17a  )  CONF.: 0.81
+ ( q17b   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( q13a   ) --->  ( q14a   q15a  )  CONF.: 0.87
+ ( q17a   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( q4d   ) --->  ( q14a   q15a  )  CONF.: 0.87
+ ( q8a   ) --->  ( q14a   q17a  )  CONF.: 0.83
+ ( q8a   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( q8b   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( cNotasmedia   ) --->  ( q14a   q15a  )  CONF.: 0.85
+ ( q23b   ) --->  ( q14a   q15a  )  CONF.: 0.87
+ ( q23c   ) --->  ( q14a   q15a  )  CONF.: 0.85
+ ( cNotasruim   q23b   ) --->  ( q14a   q15a  )  CONF.: 0.87
+ ( q8a   q15a   ) --->  ( q14a   q17a  )  CONF.: 0.82
+ ( q8a   q17a   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( q15a   q4b   ) --->  ( q14a   q17a  )  CONF.: 0.81
+ ( q4b   q17a   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( q17a   q23b   ) --->  ( q14a   q15a  )  CONF.: 0.87
+ ( q13a   q17a   ) --->  ( q14a   q15a  )  CONF.: 0.86
+ ( q13a   q23b   ) --->  ( q14a   q15a  )  CONF.: 0.87
+ ( cNotasruim   q17a   ) --->  ( q14a   q15a  )  CONF.: 0.85
+ ( q13a   cNotasruim   ) --->  ( q14a   q15a  )  CONF.: 0.87
